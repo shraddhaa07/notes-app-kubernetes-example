@@ -1,4 +1,4 @@
-# Simple Notes App for TWS Community
+# 🚀 Django Notes App — Production-Grade Kubernetes Setup
 This is a simple notes app built with React and Django.
 
 ## Requirements
