@@ -21,20 +21,6 @@ docker build -t notes-app .
 ```
 docker run -d -p 8000:8000 notes-app:latest
 ```
-
-📁 Recommended Folder Structure
-# 🚀 Django Notes App — Production-Grade Kubernetes Setup
-
-This document converts your project into a **real-world production-grade cloud-native system** suitable for:
-
-* Cloud Engineer roles
-* DevOps roles
-* CNCF ecosystem projects
-* Open-source portfolio
-* Enterprise architecture standards
-
----
-
 ## 🧱 Production Architecture
 
 **Flow:**
